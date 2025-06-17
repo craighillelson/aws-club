@@ -1,8 +1,9 @@
 # learning-aws
-repo containing AWS examples
+repo containing AWS challenges
 
 # Challenge 1
 create a static website with AWS S3
 
 # Challenge 2
-create an S3 bucket that only allows HTTPS connections
+1. create an S3 bucket and upload an object
+1. apply a policy that only allows a user to view the object and disallows connections over HTTP
