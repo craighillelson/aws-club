@@ -1,4 +1,4 @@
-# learning-aws
+# aws-club
 repo containing AWS challenges
 
 # Challenge 1
