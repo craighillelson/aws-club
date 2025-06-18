@@ -10,3 +10,6 @@ create a static website with AWS S3
 
 # Challenge 3
 create a pre-signed URL
+
+# Challenge 4
+create a VPC using the VPC and more feature
