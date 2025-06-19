@@ -2,24 +2,27 @@
 This repo contains a number of progressive AWS challenges. Modeled on the technical challenges in [The Great British Baking Show](https://www.netflix.com/title/80063224), the challenges listed below describe what is to be accomplished but do not include step by step instructions or helpful tips along the way. For more information on how to complete each challenge, please see the instructions.md file in the corresponding challenge folder.
 
 # Challenge 1
-1. create an S3 bucket
-1. upload a picture of a cute dog to the bucket
-1. access the picture over the web
+Create an AWS account and turn MFA on for the root user.
 
 # Challenge 2
-create a static website with AWS S3
+1. Create an S3 bucket
+1. Upload a picture of a cute dog to the bucket
+1. Access the picture over the web
 
 # Challenge 3
-1. create an S3 bucket and upload an object
-1. apply a policy that only allows a user to view the object and disallows connections over HTTP
+Create a static website with AWS S3
 
 # Challenge 4
-create a pre-signed URL
+1. Create an S3 bucket and upload an object
+1. Apply a policy that only allows a user to view the object and disallows connections over HTTP
 
 # Challenge 5
-create a VPC using the VPC and more feature
+Create a pre-signed URL
 
 # Challenge 6
-1. create an auto-scaling group with at least two instances a launch template
-1. delete one of the instaces in the group
-1. see if it is replaced
+Create a VPC using the VPC and more feature
+
+# Challenge 7
+1. Create an auto-scaling group with at least two instances a launch template
+1. Delete one of the instaces in the group
+1. See if it is replaced
