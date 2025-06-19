@@ -23,6 +23,6 @@ Create a pre-signed URL
 Create a VPC using the VPC and more feature
 
 # Challenge 7
-1. Create an auto-scaling group with at least two instances a launch template
+1. Create an auto-scaling group with at least two instances using a launch template
 1. Delete one of the instaces in the group
 1. See if it is replaced
