@@ -1,5 +1,5 @@
 # aws-club
-repo containing AWS challenges
+This repo contains a number of progressive AWS challenges. Modeled on technical challenges in The Great British Baking Show, the challenges listed below describe what is to be accomplished but do not include step by step instructions or helpful tips along the way. For more information on how to complete each challenge, please see the instructions.md file in the corresponding challenge folder.
 
 # Challenge 1
 1. create an S3 bucket
