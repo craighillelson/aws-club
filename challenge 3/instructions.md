@@ -1,4 +1,4 @@
-# Instructions
+# Challenge 3 Instructions
 1. Create an S3 bucket. Deselect "Block all public access" and select "I acknowledge that the current settings might result in this bucket and the objects within becoming public."
 1. Copy the contents of "bucket-policy.json" and paste them into the "Bucket policy" section of the "Permissions" tab.
 1. Upload "index.html" and "error.html" to your bucket.
