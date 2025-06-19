@@ -1,4 +1,6 @@
-Step 1: Create an AWS Account
+# Challenge 1 Instructions
+
+## Step 1: Create an AWS Account
 
 1. Go to the AWS homepage (aws.amazon.com).
 1. Click on "Create an AWS Account" in the upper right corner.
@@ -9,12 +11,12 @@ Step 1: Create an AWS Account
 1. Choose a support plan (Basic is free and sufficient for most new users).
 1. Complete the account creation process.
 
-Step 2: Access the AWS Management Console
+## Step 2: Access the AWS Management Console
 
 1. Return to aws.amazon.com and click "Sign In to the Console".
 1. Enter your email address and password to log in as the root user.
 
-Step 3: Enable MFA for the Root User
+## Step 3: Enable MFA for the Root User
 
 1. In the AWS Management Console, click on your account name in the top right corner.
 1. Select "Security Credentials" from the dropdown menu.
@@ -23,7 +25,7 @@ Step 3: Enable MFA for the Root User
 1. Choose the type of MFA device you want to use (virtual MFA device is most common).
 1. If you chose a virtual MFA device: a. Install an MFA app on your smartphone (e.g., Google Authenticator, Authy). b. Click "Show QR code" in the AWS console. c. Scan the QR code with your MFA app. d. Enter two consecutive MFA codes from your app into the AWS console. e. Click "Assign MFA".
 
-Step 4: Verify MFA Setup
+## Step 4: Verify MFA Setup
 
 1. Sign out of the AWS Management Console.
 1. Sign back in as the root user.
