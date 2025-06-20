@@ -24,7 +24,6 @@
 1. On the "Set permissions" page, click on "Attach existing policies directly"
 1. In the search box, type "AdministratorAccess"
 1. Check the box next to "AdministratorAccess"
-1. Click "Next: Tags"
 
 ## 5. Review and Create the User
 
