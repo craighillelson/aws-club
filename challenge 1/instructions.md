@@ -2,7 +2,7 @@
 
 ## Step 1: Create an AWS Account
 
-1. Go to the AWS homepage (aws.amazon.com).
+1. Go to the AWS homepage [aws.amazon.com](https://aws.amazon.com/).
 1. Click on "Create an AWS Account" in the upper right corner.
 1. Enter your email address, create a password, and choose an AWS account name.
 1. Provide your contact information, including name, address, and phone number.
