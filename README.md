@@ -17,7 +17,7 @@ Create a static website with AWS S3
 
 # Challenge 5
 1. Create an S3 bucket and upload an object
-1. Apply a policy that only allows a user to view the object and disallows connections over HTTP
+1. Apply a policy that allows a user to view the object and disallows connections over HTTP
 
 # Challenge 6
 Create a pre-signed URL
