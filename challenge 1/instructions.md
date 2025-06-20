@@ -13,7 +13,7 @@
 
 ## Step 2: Access the AWS Management Console
 
-1. Return to aws.amazon.com and click "Sign In to the Console".
+1. Return to [aws.amazon.com](https://aws.amazon.com/) and click "Sign In to the Console".
 1. Enter your email address and password to log in as the root user.
 
 ## Step 3: Enable MFA for the Root User
