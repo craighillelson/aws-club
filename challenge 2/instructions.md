@@ -2,7 +2,7 @@
 
 ## 1. Sign in to the AWS Management Console
 
-1. Go to https://console.aws.amazon.com/
+1. Go to [aws.amazon.com](https://console.aws.amazon.com/)
 1. Sign in with your root account credentials
 
 ## 2. Navigate to IAM
