@@ -1,4 +1,32 @@
 # Challenge 2 Instructions
-1. In the console, create a bucket and name it in a way that is globally unique. Make sure to deselect the "Block all public access" option.
-1. Upload a picture of a cute dog to the bucket. Feel free to use the dog pic in this repo.
-1. Access the picture over the web by selecting the object in the S3 console and clicking "Open".
+
+## 1. Sign in to the AWS Management Console
+
+1. Go to https://console.aws.amazon.com/
+1. Sign in with your root account credentials
+
+## 2. Navigate to IAM
+
+1. In the AWS Management Console, click on "Services" at the top
+1. Under "Security, Identity, & Compliance", click on "IAM"
+
+## 3. Create a new IAM User
+
+1. In the IAM dashboard, click on "Users" in the left sidebar
+1. Click the "Add user" button
+1. Enter a username for the new IAM user
+1. Under "Select AWS access type", choose "AWS Management Console access"
+1. You can either allow AWS to auto-generate a password or create a custom password
+1. Click "Next: Permissions"
+
+## 4. Attach AdministratorAccess Policy
+
+1. On the "Set permissions" page, click on "Attach existing policies directly"
+1. In the search box, type "AdministratorAccess"
+1. Check the box next to "AdministratorAccess"
+1. Click "Next: Tags"
+
+## 5. Review and Create the User
+
+1. Review all the information to ensure it's correct
+1. Click "Create user"
