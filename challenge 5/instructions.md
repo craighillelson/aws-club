@@ -25,3 +25,13 @@
 1. In your bucket's management page, click on the "Permissions" tab
 1. Scroll down to "Bucket policy" and click "Edit"
 1. Paste the following policy (replace "your-bucket-name" with your actual bucket name):
+
+## 5. Test the policy:
+
+1. Open a new browser tab
+1. Enter the URL of the object you uploaded, which should look like this:
+   ```
+   https://{your-bucket-name}.s3.amazonaws.com/{your-object-name}
+   ```
+   If the policy is set correctly, you should be able to view the object in your browser
+1. Try to connect to the object over HTTP (`http://{your-bucket-name}.s3.amazonaws.com/{your-object-name}). You should receive an error indicating that the connection is not allowed.
