@@ -1,6 +1,8 @@
 # aws-club
 This repo contains a number of progressive AWS challenges. Modeled on the technical challenges in [The Great British Baking Show](https://www.netflix.com/title/80063224), the challenges listed below describe what is to be accomplished but do not include step by step instructions or helpful tips along the way. For more information on how to complete each challenge, please see the instructions.md file in the corresponding challenge folder.
 
+As a reminder, be sure to delete any resources you create in AWS to avoid unexpected charges. 
+
 # Challenge 1
 Create an AWS account and turn MFA on for the root user.
 
