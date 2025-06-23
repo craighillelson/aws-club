@@ -22,12 +22,15 @@ Create a static website with AWS S3
 1. Apply a policy that allows a user to view the object and disallows connections over HTTP
 
 # Challenge 6
-Create a pre-signed URL
+Create a pre-signed URL.
 
 # Challenge 7
+Turn on MFA Delete for an S3 bucket.
+
+# Chlallenge 8
 Create a VPC using the VPC and more feature
 
-# Challenge 8
+# Challenge 9
 1. Create an auto-scaling group with at least two instances using a launch template
 1. Delete one of the instaces in the group
 1. See if it is replaced
