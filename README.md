@@ -27,7 +27,7 @@ Create a pre-signed URL.
 # Challenge 7
 Turn on MFA Delete for an S3 bucket.
 
-# Chlallenge 8
+# Challenge 8
 Create a VPC using the VPC and more feature
 
 # Challenge 9
