@@ -8,8 +8,12 @@ As a reminder, be sure to delete any resources you create in AWS to avoid unexpe
 ## Challenge 1
 Create an AWS account and turn MFA on for the root user.
 
+[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%201/instructions.md)
+
 ## Challenge 2
 Crete an IAM user with AdministratorAccess and turn MFA on for the user.
+
+[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%202/instructions.md)
 
 # S3
 
@@ -18,12 +22,18 @@ Crete an IAM user with AdministratorAccess and turn MFA on for the user.
 1. Upload a picture of a cute dog to the bucket
 1. Access the picture over the web
 
+[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%203/instructions.md)
+
 ## Challenge 4
 Create a static website with AWS S3
+
+[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%204/instructions.md)
 
 ## Challenge 5
 1. Create an S3 bucket and upload an object
 1. Apply a policy that allows a user to view the object and disallows connections over HTTP
+
+[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%205/instructions.md)
 
 ## Challenge 6
 Create a pre-signed URL.
