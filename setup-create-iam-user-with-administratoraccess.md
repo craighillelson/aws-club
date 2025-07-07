@@ -1,4 +1,4 @@
-# Challenge 2 Instructions
+# Create an IAM user with AdministratorAccess 
 
 ## 1. Sign in to the AWS Management Console
 

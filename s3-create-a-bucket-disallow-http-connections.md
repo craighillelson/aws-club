@@ -1,6 +1,6 @@
-# Challenge 5 Instructions
+# Create a Bucket in S3 and Disallow HTTP Connections
 
-## 1. Create a new S3 bucket:
+## 1. Create a new S3 bucket
 
 1. Click the "Create bucket" button
 1. Enter a globally unique bucket name 
@@ -8,7 +8,7 @@
 1. Leave all other settings as default for now
 1. Click "Create bucket" at the bottom of the page
 
-## 2. Upload an object to the bucket:
+## 2. Upload an object to the bucket
 
 1. Click on the name of your newly created bucket
 1. Click the "Upload" button
@@ -17,8 +17,38 @@
 
 ## 3. Edit bucket-policy.json
 
-1. Edit the `bucket-policy.json` file in this repo to include your bucket name
-1. Save the file
+1. Edit the bucket-policy below, replacing "your-bucket-name" with the actual name of your bucket.
+
+   ```
+   {
+       "Version": "2012-10-17",
+       "Statement": [
+           {
+               "Sid": "PublicReadGetObject",
+               "Effect": "Allow",
+               "Principal": "*",
+               "Action": "s3:GetObject",
+               "Resource": "arn:aws:s3:::{your-bucket-name/*}"
+           },
+           {
+               "Sid": "ForceSSLOnlyAccess",
+               "Effect": "Deny",
+               "Principal": "*",
+               "Action": "s3:*",
+               "Resource": [
+                   "arn:aws:s3:::{your-bucket-name}",
+                   "arn:aws:s3:::{your-bucket-name/*}"
+               ],
+               "Condition": {
+                   "Bool": {
+                       "aws:SecureTransport": "false"
+                   }
+               }
+           }
+       ]
+   }
+   ```
+1. Save the file as `bucket-policy.json`.
 
 ## 4. Configure bucket policy to permit GET requests:
 

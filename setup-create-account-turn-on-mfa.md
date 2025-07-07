@@ -1,4 +1,4 @@
-# Challenge 1 Instructions
+# Create an AWS Account and Enable MFA for the Root User
 
 ## Step 1: Create an AWS Account
 

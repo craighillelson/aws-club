@@ -1,54 +1,52 @@
 # aws-club
-This repo contains a number of progressive AWS challenges. Modeled on the technical challenges in [The Great British Baking Show](https://www.netflix.com/title/80063224), the challenges listed below describe what is to be accomplished but do not include step by step instructions or helpful tips along the way. For more information on how to complete each challenge, please see the instructions.md file in the corresponding challenge folder.
+This repo contains a number of progressive AWS challenges. After the Inital Setup, you will find challenges grouped by AWS service. Each challenge describes what is to be accomplished in broad terms and is followed by a link to step by step instructions.
 
 As a reminder, be sure to delete any resources you create in AWS to avoid unexpected charges. 
 
-# Setup
+# Initial Setup
 
-## Challenge 1
+If you alredy have an AWS account, you can skip this section.
+
 Create an AWS account and turn MFA on for the root user.
 
-[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%201/instructions.md)
+➡️ [step by step instructions](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html)
 
-## Challenge 2
-Crete an IAM user with AdministratorAccess and turn MFA on for the user.
+Create an IAM user with AdministratorAccess 
 
-[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%202/instructions.md)
+➡️ [step by step instructions](setup-create-iam-user-with-administratoraccess.md)
 
-# S3
+***Note**: Following this step will allow you to use the AWS Management Console without using your root account. It is a best practice to use an IAM user with AdministratorAccess for daily tasks. Only use the root account when absolutely necessary.* 
+    
+# Challenges
+## S3
 
-## Challenge 3
-1. Create an S3 bucket
-1. Upload a picture of a cute dog to the bucket
-1. Access the picture over the web
+Create an S3 bucket, upload a picture of a cute dog, and access the picture over the web.
+[step by step instructions](s3-create-a-bucket-upload-a-picture.md)
 
-[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%203/instructions.md)
-
-## Challenge 4
 Create a static website with AWS S3
 
-[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%204/instructions.md)
+➡️ [step by step instructions](s3-create-a-static-website.md)
 
-## Challenge 5
-1. Create an S3 bucket and upload an object
-1. Apply a policy that allows a user to view the object and disallows connections over HTTP
+Create an S3 bucket and upload an object. Apply a policy that allows a user to view the object and disallows connections over HTTP.
 
-[step by step instructions](https://github.com/craighillelson/aws-club/blob/main/challenge%205/instructions.md)
+➡️ [step by step instructions](s3-create-a-bucket-disallow-http-connections.md)
 
-## Challenge 6
 Create a pre-signed URL.
 
-## Challenge 7
+➡️ [step by step instructions](s3-create-a-pre-signed-url.md)
+
 Turn on MFA Delete for an S3 bucket.
 
-# VPC
+➡️ [step by step instructions](s3-enable-mfa-delete.md)
 
-## Chlallenge 8
+## VPC
+
 Create a VPC using the VPC and more feature
 
-# EC2
+➡️ [step by step instructions](vpc-create-vpc-using-vpc-and-more.md)
 
-## Challenge 9
-1. Create an auto-scaling group with at least two instances using a launch template
-1. Delete one of the instaces in the group
-1. See if it is replaced
+## EC2
+
+Create an auto-scaling group with at least two instances using a launch template. Delete one of the instaces in the group. See if it is replaced.
+
+➡️ [step by step instructions](ec2-create-an-auto-scaling-group.md)
