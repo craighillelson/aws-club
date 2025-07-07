@@ -24,6 +24,10 @@ Create an IAM user with AdministratorAccess
 Create a budget
 
 ➡️ [step by step instructions](setup-create-budget.md)
+
+Grant IAM user permissions to manage budgets
+
+➡️ [step by step instructions](setup-grant-iam-user-permissions-to-manage-budgets.md)
     
 # Challenges
 ## S3
