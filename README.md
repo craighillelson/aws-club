@@ -25,7 +25,8 @@ Create an IAM user with AdministratorAccess
 ## S3
 
 Create an S3 bucket, upload a picture of a cute dog, and access the picture over the web.
-[step by step instructions](s3-create-a-bucket-upload-a-picture.md)
+
+➡️ [step by step instructions](s3-upload-and-access-a-pic-of-a-cute-dog.md)
 
 Create a static website with AWS S3
 
