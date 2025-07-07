@@ -7,9 +7,13 @@ As a reminder, be sure to delete any resources you create in AWS to avoid unexpe
 
 If you alredy have an AWS account, you can skip this section.
 
-Create an AWS account and turn MFA on for the root user.
+Create an AWS account 
 
 ➡️ [step by step instructions](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html)
+
+Turn MFA on for the root user
+
+➡️ [step by step instructions](https://docs.aws.amazon.com/accounts/latest/reference/getting-started-step3.html)
 
 Create an IAM user with AdministratorAccess 
 
