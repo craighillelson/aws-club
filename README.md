@@ -20,6 +20,10 @@ Create an IAM user with AdministratorAccess
 ➡️ [step by step instructions](setup-create-iam-user-with-administratoraccess.md)
 
 ***Note**: Following this step will allow you to use the AWS Management Console without using your root account. It is a best practice to use an IAM user with AdministratorAccess for daily tasks. Only use the root account when absolutely necessary.* 
+
+Create a budget
+
+➡️ [step by step instructions](setup-create-budget.md)
     
 # Challenges
 ## S3
