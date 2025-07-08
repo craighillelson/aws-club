@@ -3,6 +3,12 @@ This repo contains a number of progressive AWS challenges. After the Inital Setu
 
 As a reminder, be sure to delete any resources you create in AWS to avoid unexpected charges. 
 
+# Resources
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [AWS CLI Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+- [AWS YouTube Channel](https://www.youtube.com/user/AmazonWebServices)
+- [AWS Skill Builder](https://skillbuilder.aws/)
+
 # Initial Setup
 
 If you alredy have an AWS account, you can skip this section.
