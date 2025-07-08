@@ -4,6 +4,7 @@ This repo contains a number of progressive AWS challenges. After the Inital Setu
 As a reminder, be sure to delete any resources you create in AWS to avoid unexpected charges. 
 
 # Resources
+- Start with [The Well Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [Tech Fundamentals](https://learn.cantrill.io/p/tech-fundamentals)
 - [AWS Documentation](https://docs.aws.amazon.com/)
 - [AWS CLI Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
