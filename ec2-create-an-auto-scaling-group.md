@@ -1,7 +1,7 @@
 # Create an Auto Scaling Group
 
 ## Sign into the AWS Console
-1. Go to https://console.aws.amazon.com/
+1. Go to [aws.amazon.com](https://console.aws.amazon.com/)
 1. Sign in with your IAM user credentials
 1. In the AWS Management Console, click on "Services" at the top. Under "Compute", click on "EC2".
 
