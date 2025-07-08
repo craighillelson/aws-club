@@ -8,6 +8,7 @@ As a reminder, be sure to delete any resources you create in AWS to avoid unexpe
 - [AWS CLI Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
 - [AWS YouTube Channel](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Skill Builder](https://skillbuilder.aws/)
+- [AWS Podcasts](https://aws.amazon.com/podcasts/)
 
 # Initial Setup
 
