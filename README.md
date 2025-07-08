@@ -41,7 +41,7 @@ Grant IAM user permissions to manage budgets
 # Challenges
 ## S3
 
-Create an S3 bucket, upload a picture of a cute dog, and access the picture over the web.
+Create an S3 bucket, upload a picture of a [cute dog](rocky.jpeg), and access the picture over the web.
 
 ➡️ [step by step instructions](s3-upload-and-access-a-pic-of-a-cute-dog.md)
 
