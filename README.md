@@ -65,6 +65,10 @@ Turn on MFA Delete for an S3 bucket.
 
 ➡️ [step by step instructions](s3-enable-mfa-delete.md)
 
+Set up lifecycle rules for an S3 bucket to transition an object to Glacier after 30 days and delete it after 60 days.
+
+➡️ [Transitioning objects using Amazon S3 Lifecycle](https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html)
+
 ## VPC
 
 Create a VPC using the VPC and more feature
