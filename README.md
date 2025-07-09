@@ -37,7 +37,11 @@ Create a budget
 Grant IAM user permissions to manage budgets
 
 ➡️ [step by step instructions](setup-grant-iam-user-permissions-to-manage-budgets.md)
-    
+
+Create Access Keys for the IAM user
+
+➡️ [step by step instructions](https://docs.aws.amazon.com/keyspaces/latest/devguide/create.keypair.html)
+
 # Challenges
 ## S3
 
