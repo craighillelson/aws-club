@@ -24,9 +24,12 @@ Turn MFA on for the root user
 
 ➡️ [step by step instructions](https://docs.aws.amazon.com/accounts/latest/reference/getting-started-step3.html)
 
-Create an IAM user with AdministratorAccess 
+Create a group in IAM and attach the AdministratorAccess policy to it. Create a user and add it to the group. Log in as the user and verify that you can access the AWS Management Console.
 
-➡️ [step by step instructions](setup-create-iam-user-with-administratoraccess.md)
+➡️ AWS Documentation
+- [Create a group in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_create.html)
+- [Attach a policy to a group](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_manage-attach-detach.html#attach-policy-group-console)
+- [Add a user to a group](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_manage_add-remove-users.html)
 
 ***Note**: Following this step will allow you to use the AWS Management Console without using your root account. It is a best practice to use an IAM user with AdministratorAccess for daily tasks. Only use the root account when absolutely necessary.* 
 
