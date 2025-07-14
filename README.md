@@ -84,6 +84,10 @@ Create an auto-scaling group with at least two instances using a launch template
 
 ➡️ [step by step instructions](ec2-create-an-auto-scaling-group.md)
 
+Create an AMI and use it to launch a new instance.
+
+➡️ [instructions for creating an AMI](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/tkv-create-ami-from-instance.html)
+
 ## DynamoDB
 Create Table
 1. Upload [music.csv](music.csv) to an S3 bucket.
