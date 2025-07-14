@@ -83,3 +83,7 @@ Create a VPC using the VPC and more feature
 Create an auto-scaling group with at least two instances using a launch template. Delete one of the instaces in the group. See if it is replaced.
 
 ➡️ [step by step instructions](ec2-create-an-auto-scaling-group.md)
+
+## DynamoDB
+1. Upload [music.csv](music.csv) to an S3 bucket.
+1. Import the CSV file into a DynamoDB table named "Music".
