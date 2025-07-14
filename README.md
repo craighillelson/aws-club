@@ -88,6 +88,8 @@ Create an AMI and use it to launch a new instance.
 
 ➡️ [instructions for creating an AMI](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/tkv-create-ami-from-instance.html)
 
+*Note: AMIs are region specific. If you create an AMI in one region, you will not be able to use it in another region.*
+
 ## DynamoDB
 Create Table
 1. Upload [music.csv](music.csv) to an S3 bucket.
