@@ -98,3 +98,6 @@ Create Table
 Create a Scheduled Backup
 
 ➡️ [instructions](https://aws.amazon.com/blogs/database/set-up-scheduled-backups-for-amazon-dynamodb-using-aws-backup/)
+
+## Secrets Manager
+Create a secret in Secrets Manager and access it using the AWS CLI.
