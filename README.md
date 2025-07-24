@@ -90,6 +90,10 @@ Create an AMI and use it to launch a new instance.
 
 *Note: AMIs are region specific. If you create an AMI in one region, you will not be able to use it in another region.*
 
+Create an encrypted EBS volume and attach it to an instance.
+
+Create an unencrypted EBS volume and attach it to an instance. Now, encrypt the volume and attach it to the instance.
+
 ## DynamoDB
 Create Table
 1. Upload [music.csv](music.csv) to an S3 bucket.
