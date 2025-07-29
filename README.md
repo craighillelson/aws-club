@@ -105,3 +105,6 @@ Create a Scheduled Backup
 
 ## Secrets Manager
 Create a secret in Secrets Manager and access it using the AWS CLI.
+
+## Lambda
+Create a Lambda function that denies access to an S3 bucket over HTTP. The function should be triggered by the creation of the S3 bucket.
