@@ -94,6 +94,8 @@ Create an encrypted EBS volume and attach it to an instance.
 
 Create an unencrypted EBS volume and attach it to an instance. Now, encrypt the volume and attach it to the instance.
 
+Create a Lifecycle policy for an EBS volume that creates a snapshot every 24 hours and retains the last 3 snapshots.
+
 ## DynamoDB
 Create Table
 1. Upload [music.csv](music.csv) to an S3 bucket.
