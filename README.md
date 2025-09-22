@@ -19,9 +19,9 @@ If you alredy have an AWS account, have configured an IAM user with Administrato
 
 # Challenges
 - [S3](s3/s3.md)
-- [VPC](vpc.md)
-- [EC2](ec2.md)
-- [DynamoDB](dynamodb.md)
-- [Secrets Manager](secrets-manager.md)
+- [VPC](vpc/vpc.md)
+- [EC2](ec2/ec2.md)
+- [DynamoDB](dynamodb/dynamodb.md)
+- [Secrets Manager](secrets-manager/secrets-manager.md)
 - [AWS Config](aws-config/aws-config.md)
 - AWS CloudWatch
