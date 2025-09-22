@@ -108,6 +108,8 @@ Create a Scheduled Backup
 ## Secrets Manager
 Create a secret in Secrets Manager and access it using the AWS CLI.
 
+➡️ [step by step instructions](secrets-manager-create-secret-and-access-it.md)
+
 ## AWS Config
 - Create a rule that checks if an S3 bucket has versioning enabled. If it does not, enable versioning.
 - Create a rule that checks if an S3 bucket has server-side encryption enabled. If it does not, enable server-side encryption.
