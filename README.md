@@ -11,6 +11,8 @@ As a reminder, be sure to delete any resources you create in AWS to avoid unexpe
 - [AWS YouTube Channel](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Skill Builder](https://skillbuilder.aws/)
 - [AWS Podcasts](https://aws.amazon.com/podcasts/)
+- [AWS Migration Evaluator](https://aws.amazon.com/migration-evaluator/)
+- [AWS Pricing Calculator](https://aws.amazon.com/tco-calculator/)
 
 # Initial Setup
 
