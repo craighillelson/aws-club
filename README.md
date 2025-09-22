@@ -24,4 +24,4 @@ If you alredy have an AWS account, have configured an IAM user with Administrato
 - [DynamoDB](dynamodb/dynamodb.md)
 - [Secrets Manager](secrets-manager/secrets-manager.md)
 - [AWS Config](aws-config/aws-config.md)
-- AWS CloudWatch
+- [AWS CloudWatch](cloudwatch/cloudwatch.md)
