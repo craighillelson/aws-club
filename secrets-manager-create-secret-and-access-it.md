@@ -3,7 +3,6 @@
 1. Click on Store a new secret.
     1. Select the secret type: Other type of secrets (for custom key-value pairs)
         Credentials for RDS database, Redshift, DocumentDB, or others if applicable.
-
     1. Enter the secret information: For custom secrets, add key-value pairs. For database credentials, fill in username, password, and database details.
 
 1. Click Next.
