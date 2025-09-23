@@ -11,7 +11,6 @@
     ➡️ [instructions for creating an AMI](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/tkv-create-ami-from-instance.html)
 
 - Create an encrypted EBS volume and attach it to an instance.
-
 - Create an unencrypted EBS volume and attach it to an instance. Now, encrypt the volume and attach it to the instance.
-
 - Create a Lifecycle policy for an EBS volume that creates a snapshot every 24 hours and retains the last 3 snapshots.
+- Create a user data script that installs and starts a web server on an EC2 instance at launch
