@@ -21,6 +21,7 @@ If you alredy have an AWS account, have configured an IAM user with Administrato
 - [S3](s3/s3.md)
 - [VPC](vpc/vpc.md)
 - [EC2](ec2/ec2.md)
+- [RDS](rds/rds.md)
 - [DynamoDB](dynamodb/dynamodb.md)
 - [Secrets Manager](secrets-manager/secrets-manager.md)
 - [AWS Config](aws-config/aws-config.md)
