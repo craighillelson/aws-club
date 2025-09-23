@@ -27,6 +27,7 @@ As a reminder, be sure to delete any resources you create in AWS to avoid unexpe
 If you alredy have an AWS account, have configured an IAM user with AdministratorAccess, have built a budget, and have configured the AWS CLI, you can skip this section. Consult the following step by step [instructions](setup/initial-setup.md) if you need a hand.
 
 # Challenges
+- [Billing](billing/billing.md)
 - [S3](s3/s3.md)
 - [VPC](vpc/vpc.md)
 - [EC2](ec2/ec2.md)
