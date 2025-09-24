@@ -20,6 +20,7 @@ As a reminder, be sure to delete any resources you create in AWS to avoid unexpe
 - [AWS YouTube Channel](https://www.youtube.com/user/AmazonWebServices)
 - [AWS Podcasts](https://aws.amazon.com/podcasts/)
 ## Key Services
+Check out these videos to get a quick overview of some key AWS services.
 - [AWS Lambda explained in 90 seconds](https://www.youtube.com/watch?v=qlkr0h9JQ6U&list=PLhr1KZpdzukdhgI-5VaL1IWF8h-YkWNrg)
 - [Amazon RDS Custom Overview](https://www.youtube.com/watch?v=GvUaA9cygUk)
 - [Introduction to Amazon S3](https://www.youtube.com/watch?v=Hk8k3b4nV1M&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
