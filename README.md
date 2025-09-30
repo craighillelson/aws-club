@@ -30,12 +30,13 @@ Keep up with the latest AWS news and announcements.
 
 ## Key Services
 Check out these videos to get a quick overview of some key AWS services.
-- [AWS Lambda explained in 90 seconds](https://www.youtube.com/watch?v=qlkr0h9JQ6U&list=PLhr1KZpdzukdhgI-5VaL1IWF8h-YkWNrg)
-- [Amazon RDS Custom Overview](https://www.youtube.com/watch?v=GvUaA9cygUk)
 - [Introduction to Amazon S3](https://www.youtube.com/watch?v=Hk8k3b4nV1M&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
-- [Introduction to Amazon Elastic Container Service (ECS) | Amazon Web Services](https://www.youtube.com/watch?v=FnFvpIsBrog)
-- [What is Amazon DynamoDB?](https://www.youtube.com/watch?v=kxW3-k7NXwo)
 - [What is Amazon EC2?](https://www.youtube.com/watch?v=t48aVpw6kkI&list=PLhr1KZpdzuke7Y7g1JyHci2CSdYVC5XRC)
+- [Amazon RDS Custom Overview](https://www.youtube.com/watch?v=GvUaA9cygUk)
+- [What is Amazon DynamoDB?](https://www.youtube.com/watch?v=kxW3-k7NXwo)
+- [AWS Lambda explained in 90 seconds](https://www.youtube.com/watch?v=qlkr0h9JQ6U&list=PLhr1KZpdzukdhgI-5VaL1IWF8h-YkWNrg)
+- [Introduction to Amazon Elastic Container Service (ECS) | Amazon Web Services](https://www.youtube.com/watch?v=FnFvpIsBrog)
+- [AWS Shield Animated Explainer Video | Amazon Web Services](https://www.youtube.com/watch?v=7rgiXEa0_jE)
 
 ## Training
 I've found the following resources to be particularly helpful.
