@@ -10,6 +10,7 @@ Don't know where to start? These videos are a great introduction to cloud comput
 - [What is Cloud Computing?](https://youtu.be/mxT233EdY5c?si=a1sbNfPlEyB1ua_t)
 - [What is AWS?](https://youtu.be/a9__D53WsUs?si=k88ZHGNo38Z7wUUk)
 - [What is Generative AI and How Does it Work?](https://youtu.be/qWSFcRXpjxQ?si=y5S1RXuQU1QX6kj_)
+- [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 
 ## Documentation
 Get familiar with AWS best practices and documentation. You'll come back to these resources again and again.
