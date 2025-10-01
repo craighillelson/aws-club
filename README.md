@@ -9,6 +9,7 @@ As a reminder, be sure to delete any resources you create in AWS to avoid unexpe
 Don't know where to start? These videos are a great introduction to cloud computing and AWS.
 - [What is Cloud Computing?](https://youtu.be/mxT233EdY5c?si=a1sbNfPlEyB1ua_t)
 - [What is AWS?](https://youtu.be/a9__D53WsUs?si=k88ZHGNo38Z7wUUk)
+- [AWS Global Infrastructure Explainer Video | Amazon Web Services](https://www.youtube.com/watch?v=UuRX2gK0IYw)
 - [What is Generative AI and How Does it Work?](https://youtu.be/qWSFcRXpjxQ?si=y5S1RXuQU1QX6kj_)
 - [Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 
