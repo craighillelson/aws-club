@@ -40,6 +40,7 @@ Check out these videos to get a quick overview of some key AWS services.
 - [AWS Lambda explained in 90 seconds](https://www.youtube.com/watch?v=qlkr0h9JQ6U&list=PLhr1KZpdzukdhgI-5VaL1IWF8h-YkWNrg)
 - [Introduction to AWS Elastic Beanstalk](https://www.youtube.com/watch?v=uiM1xzOX8Qg&list=PLhr1KZpdzukduV91ar4X6hPU80Ubkwe0T&index=3)
 - [Introduction to Amazon Elastic Container Service (ECS) | Amazon Web Services](https://www.youtube.com/watch?v=FnFvpIsBrog)
+- [Simplify Your Infrastructure Management Using AWS CloudFormation ](https://www.youtube.com/watch?v=1h-GPXQrLZw)
 - [AWS Shield Animated Explainer Video | Amazon Web Services](https://www.youtube.com/watch?v=7rgiXEa0_jE)
 
 ## Training
