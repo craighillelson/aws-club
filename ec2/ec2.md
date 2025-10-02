@@ -2,6 +2,9 @@
 
 *Note: AMIs are region specific. If you create an AMI in one region, you will not be able to use it in another region.*
 
+- Create an EC2 using an Amazon Linux 2 AMI. Connect to it using EC2 Instance Connect.
+
+    ➡️ [step by step instructions](ec2-create-and-connect-to-an-ec2-instance.md)
 - Create an auto-scaling group with at least two instances using a launch template. Delete one of the instaces in the group. See if it is replaced.
 
     ➡️ [step by step instructions](ec2-create-an-auto-scaling-group.md)
