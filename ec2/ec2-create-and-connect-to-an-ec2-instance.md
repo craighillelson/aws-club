@@ -17,11 +17,24 @@ Select "Proceed without a key pair"
 1. Click Edit
 1. Select "Create a new security group"
 1. Set a name for the security group (e.g., MyFirstEC2-SG)
-1. Add a rule to allow SSH access:
+1. Add a rule to allow SSH access. In the interest of security, you should restrict access to your IP address and the EC2_INSTANCE_CONNECT service. Consult the list of [AWS IP ranges JSON](https://ip-ranges.amazonaws.com/ip-ranges.json) to find the appropriate IP address range for your region. 
+
+For example, if you are in us-east-1, you would add the following rules:
+
+**Rule 1:**
+
     1. Type: SSH
     1. Protocol: TCP
     1. Port Range: 22
-    1. Source: 0.0.0.0/0
+    1. Source: My IP
+
+**Rule 2:**
+
+    1. Type: SSH
+    1. Protocol: TCP
+    1. Port Range: 22
+    1. Source: Custom
+    1. 18.206.107.24/29 (again, for use in us-east-1, check the JSON file for your region)
 
 ## Launch Instance
 1. Click "Launch instance"
