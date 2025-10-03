@@ -23,18 +23,18 @@ For example, if you are in us-east-1, you would add the following rules:
 
 **Rule 1:**
 
-    1. Type: SSH
-    1. Protocol: TCP
-    1. Port Range: 22
-    1. Source: My IP
+- Type: SSH
+- Protocol: TCP
+- Port Range: 22
+- Source: My IP
 
 **Rule 2:**
 
-    1. Type: SSH
-    1. Protocol: TCP
-    1. Port Range: 22
-    1. Source: Custom
-    1. 18.206.107.24/29 (again, for use in us-east-1, check the JSON file for your region)
+- Type: SSH
+- Protocol: TCP
+- Port Range: 22
+- Source: Custom
+- 18.206.107.24/29 (again, for use in us-east-1, check the JSON file for your region)
 
 ## Launch Instance
 1. Click "Launch instance"
