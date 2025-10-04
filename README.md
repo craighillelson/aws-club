@@ -42,6 +42,7 @@ Check out these videos to get a quick overview of some key AWS services.
 - [Introduction to Amazon Elastic Container Service (ECS) | Amazon Web Services](https://www.youtube.com/watch?v=FnFvpIsBrog)
 - [Simplify Your Infrastructure Management Using AWS CloudFormation ](https://www.youtube.com/watch?v=1h-GPXQrLZw)
 - [AWS Shield Animated Explainer Video | Amazon Web Services](https://www.youtube.com/watch?v=7rgiXEa0_jE)
+- [What is AWS Transit Gateway - Design and Build Your Network Around a Central Hub](https://www.youtube.com/watch?v=xlTHkoKR-Os)
 
 ## Training
 I've found the following resources to be particularly helpful.
