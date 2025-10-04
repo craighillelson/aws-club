@@ -33,7 +33,7 @@ Keep up with the latest AWS news and announcements.
 
 ## Key Services
 Check out these videos to get a quick overview of some key AWS services.
-- [Introduction to Amazon S3](https://www.youtube.com/watch?v=Hk8k3b4nV1M&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
+- [Introduction to Amazon Simple Storage Service (S3) - Cloud Storage on AWS](https://www.youtube.com/watch?v=77lMCiiMilo)
 - [What is Amazon EC2?](https://www.youtube.com/watch?v=t48aVpw6kkI&list=PLhr1KZpdzuke7Y7g1JyHci2CSdYVC5XRC)
 - [Amazon RDS Custom Overview](https://www.youtube.com/watch?v=GvUaA9cygUk)
 - [What is Amazon DynamoDB?](https://www.youtube.com/watch?v=kxW3-k7NXwo)
