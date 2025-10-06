@@ -19,6 +19,7 @@ Get familiar with AWS best practices and documentation. You'll come back to thes
 - Start with [The Well Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Documentation](https://docs.aws.amazon.com/)
 - [AWS CLI Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+- [CloudTrail supported services and integrations](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-aws-service-specific-topics.html)
 
 ## Evaluation Tools
 Keep the following tools handy to help you evaluate your architecture and estimate costs.
