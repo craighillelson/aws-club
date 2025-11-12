@@ -1,4 +1,5 @@
 # VPC Challenges
+A VPC (Virtual Private Cloud) is a private, isolated section of a AWS's infrastructure where you can launch and manage resources like servers, databases, and applications.
 
 - [App](main.py) to test your understanding of avoiding overlapping CIDR blocks when creating VPCs and subnets.
 - Create a VPC using the VPC and more feature
