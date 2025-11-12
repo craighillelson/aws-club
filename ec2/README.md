@@ -1,4 +1,13 @@
-# EC2 Challenges
+# EC2
+Understand the following concepts:
+- [Instance types](https://aws.amazon.com/ec2/instance-types/) and use cases (compute-optimized vs memory-optimized, etc.)
+- [Purchasing options](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html) (On-Demand, Reserved, Spot, Savings Plans)
+- [Placement groups](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html)
+- [User data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
+- [Metadata](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html)
+- [Instance lifecycle](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-lifecycle.html)
+
+# Challenges
 
 *Note: AMIs are region specific. If you create an AMI in one region, you will not be able to use it in another region.*
 
