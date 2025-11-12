@@ -56,10 +56,10 @@ I've found the following resources to be particularly helpful.
 If you alredy have an AWS account, have configured an IAM user with AdministratorAccess, have built a budget, and have configured the AWS CLI, you can skip this section. Consult the following step by step [instructions](setup/initial-setup.md) if you need a hand.
 
 # Challenges
-- [Billing](billing/billing.md)
-- [S3](s3/s3.md)
-- [VPC](vpc/vpc.md)
-- [EC2](ec2/ec2.md)
+- [Billing](billing/README.md)
+- [S3](s3/README.md)
+- [VPC](vpc/README.md)
+- [EC2](ec2/README.md)
 - [RDS](rds/rds.md)
 - [DynamoDB](dynamodb/dynamodb.md)
 - [Secrets Manager](secrets-manager/secrets-manager.md)
