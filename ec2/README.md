@@ -1,4 +1,17 @@
 # EC2
+
+EC2 is AWS's virtual server service.
+
+## What it does:
+
+- **Virtual machines** - Launch Linux or Windows servers in minutes
+- **Full control** - SSH/RDP access, install any software, configure however you want
+- **Flexible sizing** - Choose CPU, memory, storage, and network capacity
+- **Multiple purchasing options** - On-Demand (pay by hour), Reserved (commit for discount), Spot (bid on unused capacity)
+- **Placement control** - Choose regions, availability zones, even placement groups
+- **Integration** - Works with EBS for storage, security groups for firewall, IAM for access
+
+## Key Concepts
 Understand the following concepts:
 - [Instance types](https://aws.amazon.com/ec2/instance-types/) and use cases (compute-optimized vs memory-optimized, etc.)
 - [Purchasing options](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html) (On-Demand, Reserved, Spot, Savings Plans)
