@@ -55,13 +55,27 @@ I've found the following resources to be particularly helpful.
 # Initial Setup
 If you alredy have an AWS account, have configured an IAM user with AdministratorAccess, have built a budget, and have configured the AWS CLI, you can skip this section. Consult the following step by step [instructions](setup/initial-setup.md) if you need a hand.
 
-# Challenges
+# Services 
+## Management and Governance
 - [Billing](billing/README.md)
+- [Config](aws-config/README.md)
+- [IAM](iam/README.md)
+## Storage and Content Delivery
 - [S3](s3/README.md)
+- [CloudFront](cloudfront/README.md)
+## Networking
 - [VPC](vpc/README.md)
+- [Route 53](route53/README.md) 
+## Compute
 - [EC2](ec2/README.md)
-- [RDS](rds/rds.md)
-- [DynamoDB](dynamodb/dynamodb.md)
-- [Secrets Manager](secrets-manager/secrets-manager.md)
+- [EBS](ebs/README.md)
+- [Lambda](lambda/README.md)
+- [Elastic Beanstalk](elastic-beanstalk/README.md)
+- [ECS](ecs/README.md) 
+## Database
+- [RDS](rds/README.md)
+- [DynamoDB](dynamodb/README.md)
 - [AWS Config](aws-config/aws-config.md)
-- [AWS CloudWatch](cloudwatch/cloudwatch.md)
+## Monitoring and Security
+- [AWS CloudWatch](cloudwatch/README.md)
+- [Secrets Manager](secrets-manager/README.md)
