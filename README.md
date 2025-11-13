@@ -65,7 +65,7 @@ If you alredy have an AWS account, have configured an IAM user with Administrato
 - [CloudFront](cloudfront/README.md)
 ## Networking
 - [VPC](vpc/README.md)
-- [Route 53](route53/README.md) 
+- [Route 53](route-53/README.md) 
 ## Compute
 - [EC2](ec2/README.md)
 - [EBS](ebs/README.md)
