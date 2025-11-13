@@ -75,7 +75,7 @@ If you alredy have an AWS account, have configured an IAM user with Administrato
 ## Database
 - [RDS](rds/README.md)
 - [DynamoDB](dynamodb/README.md)
-- [AWS Config](aws-config/aws-config.md)
+- [AWS Config](aws-config/README.md)
 ## Monitoring and Security
 - [AWS CloudWatch](cloudwatch/README.md)
 - [Secrets Manager](secrets-manager/README.md)
