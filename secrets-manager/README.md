@@ -1,4 +1,4 @@
-# Secrets Manager Challenge
+# Secrets Manager 
 Secrets Manager is AWS's service for storing and rotating sensitive credentials.
 
 **What it does:**
