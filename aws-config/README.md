@@ -1,6 +1,6 @@
 # AWS Config
 
-AWS Config is a service that tracks and evaluates your AWS resource configurations.o
+AWS Config is a service that tracks and evaluates your AWS resource configurations.
 
 **What it does:**
 
