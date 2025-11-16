@@ -55,6 +55,18 @@ I've found the following resources to be particularly helpful.
 # Initial Setup
 If you alredy have an AWS account, have configured an IAM user with AdministratorAccess, have built a budget, and have configured the AWS CLI, you can skip this section. Consult the following step by step [instructions](setup/initial-setup.md) if you need a hand.
 
+# Questions
+- What are the differences between Security Groups and Network ACLs?
+- Describe S3 lifecycle policies and how they can be used to optimize cost.
+- What are the differences between vertical and horizontal scaling?
+- Contrast RDS, DynamoDB, and Redshift. Describe use cases for each.
+- What are the various states of an EC2 instance?
+- In DynamoDB, what is a partition key and a sort key?
+- In RDS, what is Multi-AZ and Read Replicas?
+- In DynamoDB, what are GSIs and LSIs?
+- In DynamoDB, what are RCUs and WCUs?
+- Describe the difference between high availability and fault tolerance.
+
 # Services 
 ## Management and Governance
 - [Billing](billing/README.md)
