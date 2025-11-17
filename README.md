@@ -66,6 +66,16 @@ If you alredy have an AWS account, have configured an IAM user with Administrato
 - In DynamoDB, what are GSIs and LSIs?
 - How do you choose between on-demand and provisioned capacity in DynamoDB?
 - Describe the difference between high availability and fault tolerance.
+- What's the difference between IAM roles and IAM users? Provide an example of when you'd use each.
+- A web application experiences unpredictable traffic spikes throughout the day. Design a solution using EC2, ELB, and Auto Scaling that handles this efficiently and cost-effectively.
+- What are the differences between Application Load Balancer (ALB) and Network Load Balancer (NLB)? When would you choose one over the other?
+- Compare Lambda and EC2. What factors would influence your choice between them for a given workload?
+- Explain the difference between stopping and terminating an EC2 instance. What happens to EBS volumes and billing in each case?
+- A company needs to reduce costs for predictable, steady-state workloads running 24/7. Compare Reserved Instances, Savings Plans, and Spot Instances as solutions.
+- How would you use CloudWatch to automatically scale an Auto Scaling Group based on application performance?
+- What are the different EBS volume types (gp3, io2, st1, sc1), and what use cases is each optimized for?
+- A company needs to make their S3-hosted static website faster for global users. What AWS services would you recommend and why?
+- Explain the difference between S3 bucket policies and IAM policies. When would you use each to control access to S3 objects?
 
 # Services 
 ## Management and Governance
